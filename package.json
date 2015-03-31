@@ -1,8 +1,8 @@
 {
-  "name": "three.js with canvas renderer and projector",
+  "name": "three.js",
   "version": "0.0.71",
   "homepage": "http://threejs.org/",
-  "description": "JavaScript 3D library",
+  "description": "three.js built with canvas renderer and projector",
   "main": "build/three.js",
   "keywords": [
     "three",
