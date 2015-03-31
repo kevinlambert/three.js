@@ -3,7 +3,7 @@ three.js
 
 This repo is built with canvas renderer and projector
 
-python build.py --include common --include extras --include canvas
+python build.py --include common --include extras --include canvas --include svg
 
 #### JavaScript 3D library ####
 
